@@ -1,0 +1,12 @@
+{
+  "name": "viktoriyagr/328/Pets",
+  "authors": [
+    {
+      "name": "Viktoriya Kovachyk",
+      "email": "kovachyk.viktoriya@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
