@@ -14,7 +14,7 @@ $f3->route('GET /', function(){
 
     //displaying view image
     $view = new Template();
-    echo view->render('pets/index.html');
+    echo view->render('pets/home.html');
 });
 
 f3->route('GET /page2', function(){
